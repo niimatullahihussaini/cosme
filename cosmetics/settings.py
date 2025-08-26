@@ -25,8 +25,8 @@ SECRET_KEY = 'django-insecure-4lbb5vuj45&^_rvdaasre06@g4&k_(=t0#8z#y6tj&2t%fkmm9
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['cosme-production.up.railway.app', 'https://cosme-production.up.railway.app']
-CSRF_TRUSTED_ORIGINS = ['https://cosme-production.up.railway.app']
+ALLOWED_HOSTS = ['cosme-1.onrender.com', 'https://cosme-1.onrender.com']
+CSRF_TRUSTED_ORIGINS = ['https://cosme-1.onrender.com']
 
 
 
